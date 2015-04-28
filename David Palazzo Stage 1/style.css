@@ -1,0 +1,31 @@
+/* CSS style sheet*/
+body{
+	font-family:cursive;
+	background-color: #a0e68c;
+}
+h1{
+	text-align: center;
+	color: #d0235a;
+	padding: 3px 3px;
+	border-radius: 15px;
+	background-color: #c5922;
+}
+p{
+	text-indent: 5em;
+}
+h3{
+	font-family: fantasy;
+	font-style: oblique;
+	color: #4b0082;
+	text-indent: 2.5em;
+}
+.Chapter{
+	background-color: #ffa07a;
+	padding: 6px 6px;
+	margin: 10px auto;
+	border-radius: 10px;
+	font-weight: lighter;
+}
+.TOC{
+	font-size: 1.6em;
+}
